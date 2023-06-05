@@ -1,0 +1,33 @@
+body {
+  width: 320px;
+  height: 120px;
+  font-family: Arial, sans-serif;
+}
+
+label {
+  font-size: 14px;
+  display: block;
+  margin-bottom: 5px;
+}
+
+input[type="text"] {
+  width: 90%;
+}
+
+button {
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.history-section {
+  margin-top: 20px;
+}
+
+.history-section ul {
+  padding-left: 15px;
+  padding-right: 5px;
+}
+
+.history-section li {
+  margin-bottom: 5px;
+}
